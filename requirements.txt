@@ -53,3 +53,4 @@ tzdata==2025.1
 urllib3==2.3.0
 uvicorn==0.34.0
 setuptools==68.2.2
+redis==5.0.1
